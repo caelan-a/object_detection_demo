@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>33.jpg</filename>
+	<path>C:\Users\cande\Desktop\data\images\train\33.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>white_grasshopper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>349</xmin>
+			<ymin>299</ymin>
+			<xmax>512</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>
